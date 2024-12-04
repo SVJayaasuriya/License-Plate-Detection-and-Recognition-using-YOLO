@@ -12,9 +12,9 @@ License Plate Detection and Recognition using YOLO is a computer vision project 
     5. PyTorch: A deep learning framework used to train and run the YOLOv5 model.
     6. NumPy: A library for handling numerical operations, especially for image processing tasks.
   
-- **Setup and Installation**: Runt the following commands in command prompt to download this repository
-    git clone https://github.com/your-username/License-Plate-Detection-Recognition.git
-    cd License-Plate-Detection-Recognition
+- **Setup and Installation**: Run the following commands in command prompt to download this repository
+    1. git clone https://github.com/your-username/License-Plate-Detection-Recognition.git
+    2. cd License-Plate-Detection-Recognition
   
 - **Usage**: Open the main.ipynb file with Visual Studio Code or Jupyter Notebook and execute
 
