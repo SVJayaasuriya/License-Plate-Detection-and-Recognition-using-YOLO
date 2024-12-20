@@ -18,4 +18,3 @@ License Plate Detection and Recognition using YOLO is a computer vision project 
   
 - **Usage**: Open the main.ipynb file with Visual Studio Code or Jupyter Notebook and execute
 
-### Thank you for downloading this project ###
